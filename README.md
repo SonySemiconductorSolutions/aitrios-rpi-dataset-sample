@@ -17,6 +17,6 @@ Currently, the dataset supports classification and object detection tasks.
 
 This dataset contains 516 images (216 for training, 300 for validation) of printed simple geometric shape (circle, triangle, rectangle).
 
-![image](./images/pic1.png)
-![image](./images/pic2.png)
-![image](./images/pic3.png)
+![image](./images/pict1.png)
+![image](./images/pict2.png)
+![image](./images/pict3.png)
